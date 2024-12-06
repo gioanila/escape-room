@@ -16,12 +16,6 @@
         "tilemapTile": true,
         "displayName": "myTile0"
     },
-    "tile3": {
-        "data": "hwQQABAAAACpqqqqqqqqqhqZmZmZmZmpGjMzMzMzM6kaMzMzMzMzqRozMzMzMzOpGjMzMzMzM6kaMzMzMzMzqRozMzMzMzOpGjMzMzMzM6kaMzMzMzMzqRozMzMzMzOpGjMzMzMzM6kaMzMzMzMzqRozMzMzMzOpGhEREREREamqqqqqqqqqGg==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "myTile1"
-    },
     "tile4": {
         "data": "hwQQABAAAAB3d4eIiHh3d4eIeHd3h4h4h3eHiIh4d3iHd4eIiHh3eId3h4iIeHd4eIiIiIiIiId4iIiIiIiIh3iIiIiIiIiHeIiIiIiIiId4iIiIiIiIh3iIiIiIiIiHh3eHiIh4d3iHd4eIiHh3eId3h4iIeHd4h4h4d3eHiHh3d4eIiHh3dw==",
         "mimeType": "image/x-mkcd-f4",
@@ -45,6 +39,12 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "myTile5"
+    },
+    "tile3": {
+        "data": "hwQQABAAAACpqqqqqqqqqhqZmZmZmZmpGqqqOqOqqqkaqqo6o6qqqRqqqjqjqqqpGqra3d2tqqkaqtqZma2qqRoz05mZPTOpGjPTmZk9M6kaqtqZma2qqRqq2t3draqpGqqqOqOqqqkaqqo6o6qqqRqqqjqjqqqpGhEREREREamqqqqqqqqqGg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile1"
     },
     "legel1": {
         "id": "legel1",
