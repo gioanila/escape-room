@@ -2,7 +2,8 @@
     "name": "Escape Room",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Extension": "pub:18319-03613-45816-52924"
     },
     "files": [
         "main.blocks",
