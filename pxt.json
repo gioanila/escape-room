@@ -4,7 +4,8 @@
     "dependencies": {
         "device": "*",
         "color-coded-tilemap": "*",
-        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "Escape Room - Copy": "pub:40279-33980-41868-43148"
     },
     "files": [
         "main.blocks",
